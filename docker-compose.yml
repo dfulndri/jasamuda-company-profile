@@ -13,7 +13,6 @@ services:
       - jasamuda_network
     depends_on:
       - db
-      - redis
 
   webserver:
     image: nginx:alpine
@@ -42,13 +41,6 @@ services:
       - "3306:3306"
     volumes:
       - jasamuda_dbdata:/var/lib/mysql
-    networks:
-      - jasamuda_network
-
-  redis:
-    image: redis:alpine
-    container_name: jasamuda_redis
-    restart: unless-stopped
     networks:
       - jasamuda_network
 
