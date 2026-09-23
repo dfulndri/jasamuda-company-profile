@@ -1,4 +1,4 @@
-@extends('layouts.app')
+{{-- @extends('layouts.app')
 
 @section('title', 'Pricing')
 
@@ -235,4 +235,4 @@
       });
     });
   </script>
-@endsection
+@endsection --}}
