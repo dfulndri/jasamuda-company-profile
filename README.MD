@@ -91,17 +91,17 @@ Saat ini seluruh halaman masih **statis** (dirender langsung dari route mengguna
 
 *Cerita perusahaan, prinsip kerja, dan tim Jasamuda.*
 
-<!-- ### Halaman Services
+### Halaman Services
 
 ![Halaman Services](docs/screenshots/services.png)
 
 *Daftar layanan, model kerja sama, dan FAQ.*
 
-### Halaman Detail Layanan
+<!-- ### Halaman Detail Layanan
 
 ![Halaman Service Details](docs/screenshots/service-details.png)
 
-*Ringkasan layanan, cakupan pekerjaan, proses kerja, dan pertanyaan umum.*
+*Ringkasan layanan, cakupan pekerjaan, proses kerja, dan pertanyaan umum.* -->
 
 ### Halaman Portfolio
 
@@ -109,7 +109,7 @@ Saat ini seluruh halaman masih **statis** (dirender langsung dari route mengguna
 
 *Galeri proyek dengan filter kategori (All Work, Product Design, Development, Branding).*
 
-### Halaman Detail Portfolio
+<!-- ### Halaman Detail Portfolio
 
 ![Halaman Portfolio Single](docs/screenshots/portfolio-single.png)
 
